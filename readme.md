@@ -1,5 +1,9 @@
 # dashboard.spatie.be
 
+# Users be like ( VS C0der let's make 
+dope interactive face. add this, add that, add this java and this html. 
+
+# Enters Spatie on GitHub : oh yeah I seen a license that fits that on source code: PS that's ours ni**a. 
 This repo contains the source code of our dashboard.
 
 ## Support us
