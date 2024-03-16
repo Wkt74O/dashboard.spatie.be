@@ -1,4 +1,14 @@
+# CAUTION MALICIOUS MALWARE BY CONTRIBUTERS!!!
+
 # dashboard.spatie.be
+# This was stopped by me becauce their
+1337 squad along with a few others 
+uses it with a back door payload
+of malware to try and steal
+my websites and accounts.
+if you use this or have. 
+
+# CAUTION CAUTION 
 
 # Users be like ( VS C0der let's make 
 dope interactive face. add this, add that, add this java and this html. 
