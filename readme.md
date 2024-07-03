@@ -1,47 +1,8 @@
-# CAUTION MALICIOUS MALWARE BY CONTRIBUTERS!!!
+# 
 
-# dashboard.spatie.be
-# This was stopped by me becauce their
-1337 squad along with a few others 
-uses it with a back door payload
-of malware to try and steal
-my websites and accounts.
-if you use this or have. 
 
-# CAUTION CAUTION 
 
-# Users be like ( VS C0der let's make 
-dope interactive face. add this, add that, add this java and this html. 
 
-# Enters Spatie on GitHub : oh yeah I seen a license that fits that on source code: PS that's ours ni**a. 
-This repo contains the source code of our dashboard.
-
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/dashboardspatiebe.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/dashboard.spatie.be)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
-
-## Example
-
-<img style="max-width:100%; height: auto" src="http://spatie.github.io/dashboard.spatie.be/images/screenshot20181118.png">
-
-Our configured dashboard has following tiles:
-
-- Twitter stream with all tweets mentioning and quoting [@spatie_be](https://twitter.com/spatie_be)
-- Clock/date/weather
-- Team tile with todo's via GitHub files, remote status via Slack, current tracks via [Last.fm](https://last.fm)
-- [Packagist](https://packagist.org) downloads
-- Internet up/down via WebSockets
-- [Velo](https://www.velo-antwerpen.be/en) status
-
-## How it works
-
-Our own [Freek Van der Herten](https://twitter.com/freekmurze) gave a talk on the dashboard at Laracon EU where he explained how the dashboard works behind the screens. The talk was recorded and published [on Youtube](https://www.youtube.com/watch?v=jtB_rTh61Zo).
-
-## Installation
 
 Install this package by running cloning this repository and install like you normally install Laravel.
 
